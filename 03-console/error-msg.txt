@@ -1,0 +1,1 @@
+zsh: ./01-format.js: bad interpreter: usr/bin/node: 没有那个文件或目录
